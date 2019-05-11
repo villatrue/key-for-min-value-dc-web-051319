@@ -1,4 +1,4 @@
-# hash = {:blake => 500, :ashley => 2, :adam => 1}
+# {:blake => 10, :ashley => 50, :adam => 17}
 require "pry"
 def key_for_min_value(hash)
   lowest_key = nil
